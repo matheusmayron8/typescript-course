@@ -1,0 +1,1 @@
+{"parent":null,"pid":4031,"argv":["/usr/bin/node","/usr/bin/npm","run","integration-test"],"execArgv":[],"cwd":"/home/matheus/typescript-course","time":1577154885715,"ppid":4020,"coverageFilename":"/home/matheus/typescript-course/.nyc_output/1412ea2a-5531-4f84-9cd2-fd7f2ce8aaff.json","externalId":"","uuid":"1412ea2a-5531-4f84-9cd2-fd7f2ce8aaff","files":[]}
