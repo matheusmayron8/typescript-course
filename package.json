@@ -8,9 +8,9 @@
     "builded": "PORT=5000 NODE_ENV=production node ./dist/server/server.js",
     "unit-test": "NODE_ENV=test mocha --opts dist/tests/unit/config/mocha.opts ./dist/tests/unit/unit.test.js",
     "integration-test": "NODE_ENV=test mocha --opts dist/tests/integration/config/mocha.opts ./dist/tests/integration/integration.test.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
     "integration-coverage": "nyc --reporter=html npm run integration-test",
-    "unit-coverage": "nyc --reporter=html npm run unit-test"
+    "unit-coverage": "nyc --reporter=html npm run unit-test",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "API",
